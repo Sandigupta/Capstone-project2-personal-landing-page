@@ -1,0 +1,101 @@
+#header{
+    background-color:white ;
+}
+.container-head{
+    background-color:white ;  
+} 
+
+/* ------------------------------------------this is for i,m sandeep wala section------------------------------------------------------------- */
+#title{
+    background-color:#B9F3E4 ;
+}
+/* .container{
+    height:100vh ;
+} */
+.h1{
+    color:#1eae98;
+     font-family: 'Sacramento', cursive;
+    font-size: 625%;
+    
+}
+.span{
+    display:block;
+}
+.p1{
+    color: #1EAE98;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+.cloud1{
+    position: absolute;
+    top: 300px ;
+    left:70px ;
+}
+.cloud2{
+    position: absolute;
+    right:100px ;
+    top:200px ;
+}
+/* -------------------------------------------------------------------***-end-***------------------------------------------------------------------- */
+
+/* ------------------------------------------container intro section------------------------------------------------------------------------ */
+.container-intro{
+    margin-top:50px ;
+}
+.h2{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+}
+.pera{
+    font-family: "Merriweather", serif;
+    color: #40514e;
+    font-size: 25px;
+    
+}
+/* ---------------------------------------------------------end--------------------------------------------------------------------------- */
+
+/* -------------------------------------------------------container skill------------------------------------------------------------------ */
+.cdd{
+    color: #40514e;
+    font-family: "Merriweather", serif;
+    font-weight: normal;
+    font-size:22px ;
+   
+}
+.cdd-head{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;  
+}
+.hori{
+    
+        border-top: 10px dotted #a2f7f7;
+        size: 10px;
+        width: 60px; 
+        margin: 10px auto ;
+    
+}
+
+/* ---------------------------------------------------------------end------------------------------------------------------------------------- */
+
+
+/* -------------------------------------------------------------footer------------------------------------------------------------------------ */
+
+#footer{
+    background-color:#7cd4c7;
+}
+
+
+.contect1{
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    
+    font-weight: normal;
+}
+
+.contect2{
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size:30px;
+    font-weight: normal;
+}
